@@ -1,0 +1,30 @@
+_repo: The-Great-Round-World-and-What-Is-Going-On-In-It-Vol.-1-No.-32-June-17-1897A-Weekly-Magazine-__15650
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15650-h/images/coverdark.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: The Great Round World And What Is Going On In It
+gutenberg_issued: '2005-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcc 'D'
+- !lcsh 'History, Modern -- 19th century -- Juvenile literature -- Periodicals'
+title: 'The Great Round World and What Is Going On In It, Vol. 1, No. 32, June 17,
+  1897
+
+  A Weekly Magazine for Boys and Girls'
+url: http://www.gutenberg.org/ebooks/15650
