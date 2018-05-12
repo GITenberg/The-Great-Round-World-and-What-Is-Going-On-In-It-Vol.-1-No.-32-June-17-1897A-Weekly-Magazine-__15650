@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15650#The-Great-Round-World-and-What-Is-Going-On-In-It-Vol.-1-No.-32-June-17-1897A-Weekly-Magazine-_
 gutenberg_bookshelf: The Great Round World And What Is Going On In It
 gutenberg_issued: '2005-04-18'
 gutenberg_type: Text
